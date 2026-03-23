@@ -20,9 +20,10 @@ The developer assumes **NO responsibility** for any misuse or illegal activities
 👨‍💻 Developed By
 This entire suite, from logic to documentation, is an independent production developed from scratch by Abderaouf Sendid (r4ouf_s). 🛡️💻
 
-Some images showing how the tool works:
+Some pictures showing what the tool looks like and how it works:
  <img width="1280" height="927" alt="image" src="https://github.com/user-attachments/assets/f36cf78a-8f1d-4b12-a5e9-34033831ac07" />
-
+<img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/f3ccd3a1-b88a-4702-a10f-4442d9bf923b" />
+<img width="1275" height="924" alt="image" src="https://github.com/user-attachments/assets/ff2c2a5c-a5b8-4732-b081-068f29371774" />
 <img width="1275" height="924" alt="image" src="https://github.com/user-attachments/assets/b04fa26d-9518-4b05-ac10-00784e676b8e" />
 
 ### 🚀 Installation & Deployment
