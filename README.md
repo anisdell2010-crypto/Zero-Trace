@@ -36,11 +36,12 @@ chmod +x zero-trace.sh
 sudo ./zero-trace.sh
 ---
 
-> [!WARNING]
-> ### ⚖️ Legal Disclaimer & Terms of Use
-> **This tool is for EDUCATIONAL and AUTHORIZED PENETRATION TESTING purposes only.**
-> 
-> **I, Abderaouf Sendid (r4ouf_s), assume NO responsibility or liability for any illegal use, data loss, or system damage caused by this software. Use it strictly in accordance with local laws and ethical hacking guidelines. Testing against targets without prior written consent is illegal.** 🚫⚖️
+⚖️ Legal Disclaimer & Terms of Use
+Disclaimer: This tool, Zero-Trace Suite, is developed for EDUCATIONAL and AUTHORIZED PENETRATION TESTING purposes only.
+
+This tool is for EDUCATIONAL and AUTHORIZED PENETRATION TESTING purposes only.
+
+The developer assumes NO responsibility for any misuse or illegal activities performed with this software. It is the end user's responsibility to obey all applicable laws. Use at your own risk. 🚫⚖️
 
 ✍️ Statement of Authenticity
 This entire suite—from the core logic and Bash scripting to the professional documentation and structure—is an independent production, developed from scratch by Abderaouf Sendid (r4ouf_s). Built with passion, precision, and a relentless commitment to cybersecurity excellence. 🛡️💻✨
