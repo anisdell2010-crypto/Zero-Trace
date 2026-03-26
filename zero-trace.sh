@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zero-Trace Suite v1.0 - Official Professional Tool of r4ouf_s
-# Developed by r4ouf_s
+# Developed by r4ouf_s abderaouf
 
 # Fix terminal colors and compatibility
 export TERM=xterm-256color 2>/dev/null || true
