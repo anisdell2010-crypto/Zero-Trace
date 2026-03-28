@@ -27,7 +27,7 @@ Some pictures showing what the tool looks like and how it works:
 
 ### 🚀 Installation & Deployment
 ```bash
-git clone [https://github.com/anisdell2010-crypto/Zero-Trace.git](https://github.com/anisdell2010-crypto/Zero-Trace.git)
+git clone https://github.com/anisdell2010-crypto/Zero-Trace.git
 cd Zero-Trace
 chmod +x zero-trace.sh
 sudo ./zero-trace.sh
