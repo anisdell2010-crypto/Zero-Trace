@@ -24,6 +24,16 @@ Some pictures showing what the tool looks like and how it works:
  <img width="1280" height="927" alt="image" src="https://github.com/user-attachments/assets/f36cf78a-8f1d-4b12-a5e9-34033831ac07" />
 <img width="1279" height="924" alt="Capture d’écran 2026-03-23 222709" src="https://github.com/user-attachments/assets/b87ed3b3-4ae9-4587-b267-73d9c1fb8b36" />
 <img width="1275" height="924" alt="image" src="https://github.com/user-attachments/assets/b04fa26d-9518-4b05-ac10-00784e676b8e" />
+Features Section:
+## 🧠Features:
+
+- MAC Address Randomization
+- Monitor Mode Automation
+- VPN Detection
+- Deep Log Sanitization
+- Self-Destruct Mechanism
+- Multi-Interface Support
+- 
 ### 🚀 Installation & Deployment
 
 To deploy the **Zero-Trace Suite**, execute the following commands in your terminal. Ensure you have `git` and `bash` installed on your Kali Linux system.
