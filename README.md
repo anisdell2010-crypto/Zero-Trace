@@ -1,6 +1,9 @@
 # 🛡️ <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="30" height="30" valign="middle"> Zero-Trace Suite v1.0
 **Advanced Network Stealth & Identity Protection (Bash)**
-
+![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)
+![Language](https://img.shields.io/badge/language-Bash-green)
+![Version](https://img.shields.io/badge/version-1.0-red)
+![License](https://img.shields.io/badge/license-Educational-orange)
 Zero-Trace is a professional-grade suite designed for **Kali Linux** to automate anonymity and secure your digital footprint during network auditing.
 
 ---
