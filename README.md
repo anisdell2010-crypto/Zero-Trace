@@ -33,7 +33,7 @@ Features Section:
 - Deep Log Sanitization
 - Self-Destruct Mechanism
 - Multi-Interface Support
-- 
+
 ### 🚀 Installation & Deployment
 
 To deploy the **Zero-Trace Suite**, execute the following commands in your terminal. Ensure you have `git` and `bash` installed on your Kali Linux system.
