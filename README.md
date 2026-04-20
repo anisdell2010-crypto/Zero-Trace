@@ -34,7 +34,7 @@ Requirements Section⚠️:
 - NetworkManager
   
 Features Section:
-## 🧠Features:
+## 🧠 Features
 
 - MAC Address Randomization
 - Monitor Mode Automation
