@@ -1,34 +1,57 @@
-Zero-Trace Suite v1.0 | Official License
 Copyright (c) 2026 Abderaouf Sendid (r4ouf_s). All Rights Reserved.
 
 1. OWNERSHIP & AUTHENTICITY
-Zero-Trace Suite v1.0 is developed and owned exclusively by Abderaouf Sendid. The only authentic and trusted version of this software is hosted on the developer's official GitHub repository and signed with GPG Key ID: B5690EEEBB952194.
+
+CoreSanitize v1.0 is proprietary software developed and exclusively owned by Abderaouf Sendid.
+
+The only authentic and trusted distribution of this software is available through the official GitHub repository maintained by the author and verified using GPG Key ID: B5690EEEBB952194.
+
+Any version obtained from unofficial sources is considered unauthorized, untrusted, and unsupported.
 
 2. PERMITTED USE
-Permission is hereby granted to download and execute this software locally on Kali Linux systems and authorized environments for the following purposes:
 
-Advanced educational research and cybersecurity training.
+Permission is granted to use CoreSanitize locally on Kali Linux or other security-focused environments strictly for lawful non-commercial purposes, including:
 
-Personal security auditing and private lab experimentation.
+Cybersecurity education and academic research
+Privacy and security posture analysis
+Controlled laboratory testing and experimentation
+Ethical and authorized forensic or wireless security studies
 
-Authorized penetration testing engagements.
+All usage must comply with applicable local, national, and international laws.
 
 3. RESTRICTIONS
-Users are STRICTLY PROHIBITED from:
 
-Modifying, reverse engineering, or creating derivative works of this software.
+Users are not permitted to:
 
-Redistributing, mirroring, or re-uploading the source code to any other repositories or platforms.
+Modify, reverse engineer, decompile, or create derivative works of CoreSanitize
+Redistribute, mirror, publish, or re-host the software or its source code in any form
+Use the software for commercial purposes, including paid services or products
+Remove, alter, or obscure copyright notices, ownership statements, or digital signatures
+Represent the software as their own work or claim authorship
+4. LEGAL USE & DISCLAIMER OF LIABILITY
 
-Using this software for commercial purposes or as part of a paid security service.
+CoreSanitize v1.0 is intended for lawful use only. Any illegal, unauthorized, or unethical use of this software is strictly prohibited.
 
-Claiming ownership or altering any copyright headers or digital signatures.
+The user assumes full responsibility for how the software is used.
 
-4. NO WARRANTY (LIMITATION OF LIABILITY)
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR (ABDERAOUF SENDID) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. USE AT YOUR OWN RISK.
+The author shall not be held responsible or liable for any misuse, illegal activity, or damages resulting from the use or misuse of this software by any third party.
 
-5. CONTACT & PERMISSIONS
-For licensing inquiries, professional collaborations, or permissions beyond the scope of this license, please contact the developer exclusively through the official GitHub repository.
+By using this software, the user fully accepts these terms.
 
-Official Repository:
-https://github.com/anisdell2010-crypto/Zero-Trace
+5. NO WARRANTY
+
+This software is provided “AS IS”, without warranty of any kind, express or implied.
+
+The author disclaims all liability for any direct, indirect, incidental, or consequential damages arising from the use of this software.
+
+Use at your own risk.
+
+6. AUTHENTICITY VERIFICATION
+
+Users are strongly encouraged to verify the integrity of all releases using the official GPG signature provided by the author.
+
+Any modified or unsigned version must be considered untrusted and unofficial.
+
+7. CONTACT & PERMISSIONS
+
+For licensing inquiries, collaboration requests, or permissions beyond the scope of this license, contact the developer exclusively via the official GitHub repository.
