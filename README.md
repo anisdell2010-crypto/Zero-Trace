@@ -25,9 +25,12 @@ The developer assumes **NO responsibility** for any misuse or illegal activities
 This entire suite, from logic to documentation, is an independent production developed from scratch by Abderaouf Sendid (r4ouf_s). 🛡️💻
 
 Some pictures showing what the tool looks like and how it works:
- <img width="1280" height="927" alt="image" src="https://github.com/user-attachments/assets/f36cf78a-8f1d-4b12-a5e9-34033831ac07" />
-<img width="1279" height="924" alt="Capture d’écran 2026-03-23 222709" src="https://github.com/user-attachments/assets/b87ed3b3-4ae9-4587-b267-73d9c1fb8b36" />
-<img width="1275" height="924" alt="image" src="https://github.com/user-attachments/assets/b04fa26d-9518-4b05-ac10-00784e676b8e" />
+ <img width="1280" height="953" alt="Capture d’écran 2026-05-04 220548" src="https://github.com/user-attachments/assets/28c763c2-aad4-4228-a81f-50f14129bc0d" />
+ <img width="1280" height="963" alt="Capture d’écran 2026-05-04 220708" src="https://github.com/user-attachments/assets/c0b25d7c-4828-4371-8183-2e556ccf61d4" />
+ <img width="1280" height="952" alt="Capture d’écran 2026-05-04 220801" src="https://github.com/user-attachments/assets/24e6d9f2-b55c-4cbc-b435-bcc08091effb" />
+
+
+
 Requirements Section⚠️: 
 
 📦 Requirements
