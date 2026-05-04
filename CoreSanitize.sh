@@ -11,7 +11,9 @@ BLUE='\033[0;34m'
 PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 WHITE='\033[1;37m'
-
+BLUE=$'\e[34m'
+WHITE=$'\e[97m'
+NC=$'\e[0m'
 # Configuration
 interfaces=("wlan0" "wlan1")
 
@@ -40,20 +42,21 @@ esac
 # --- [ UI: Banner ] ---
 function show_banner {
     clear
-  echo -e "${BLUE}"
-echo "╔══════════════════════════════════════════════════════════════╗"
-echo "║                                                              ║"
-echo "║    ____               ____              _ _  _              ║"
-echo "║   / ___|___  _ __ ___/ ___|  __ _ _ __ (_) |_(_)___         ║"
-echo "║  | |   / _ \| '__/ _ \___ \ / _\` | '_ \| | __| |_  /       ║"
-echo "║  | |__| (_) | | |  __/___) | (_| | | | | | |_| |/ /        ║"
-echo "║   \____\___/|_|  \___|____/ \__,_|_| |_|_|\__|_/___|       ║"
-echo "║                                                              ║"
-echo "║        ${WHITE}CORE SANITIZE :: SECURITY FRAMEWORK${BLUE}              ║"
-echo "║   ${WHITE}Network Integrity • Privacy • Threat Mitigation${BLUE}      ║"
-echo "║                                                              ║"
-echo "╚══════════════════════════════════════════════════════════════╝"
-echo -e "${NC}"
+
+    echo -e "${BLUE}"
+    echo "╔══════════════════════════════════════════════════════════════╗"
+    echo "║                                                              ║"
+    echo "║    ____               ____              _ _  _              ║"
+    echo "║   / ___|___  _ __ ___/ ___|  __ _ _ __ (_) |_(_)___         ║"
+    echo "║  | |   / _ \| '__/ _ \___ \ / _\` | '_ \| | __| |_  /       ║"
+    echo "║  | |__| (_) | | |  __/___) | (_| | | | | | |_| |/ /        ║"
+    echo "║   \____\___/|_|  \___|____/ \__,_|_| |_|_|\__|_/___|       ║"
+    echo "║                                                              ║"
+    echo "║        ${WHITE}CORE SANITIZE :: SECURITY FRAMEWORK${BLUE}              ║"
+    echo "║   ${WHITE}Network Integrity • Privacy • Threat Mitigation${BLUE}      ║"
+    echo "║                                                              ║"
+    echo "╚══════════════════════════════════════════════════════════════╝"
+    echo -e "${NC}"
 }
 
 # --- [ Module 1: Stealth Setup ] ---
