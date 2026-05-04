@@ -1,5 +1,5 @@
 #!/bin/bash
-# Zero-Trace Suite v1.0 - Official Professional Tool of r4ouf_s
+# CoreSanitize v1.0 - Official Professional Tool of r4ouf_s
 # Developed by r4ouf_s abderaouf
 
 # Fix terminal colors and compatibility
@@ -17,9 +17,9 @@ interfaces=("wlan0" "wlan1")
 
 # --- [ Module: Help System ] ---
 function show_help {
-    echo -e "${CYAN}Zero-Trace Suite v1.0 - Manual${NC}"
+    echo -e "${CYAN}CoreSanitize v1.0 - Manual${NC}"
     echo -e "${WHITE}The official professional tool of r4ouf_s${NC}"
-    echo -e "${WHITE}Usage: sudo ./zero-trace.sh [option]${NC}\n"
+    echo -e "${WHITE}Usage: sudo ./CoreSanitize.sh [option]${NC}\n"
     echo -e "${BLUE}Options:${NC}"
     echo -e "  -h, --help    Show this professional help menu"
     echo -e "\n${BLUE}Features Description:${NC}"
@@ -40,15 +40,19 @@ esac
 # --- [ UI: Banner ] ---
 function show_banner {
     clear
-    echo -e "${CYAN}"
-    echo "  __________                     ___________                     "
-    echo "  \____    /___________  ____    \__    ___/___________    ____  "
-    echo "    /     // __ \_  __ \/  _ \      |    |  \_  __ \__  \ _/ ___\ "
-    echo "   /     /\  ___/|  | $  <_> )     |    |   |  | \// __ \\  \___ "
-    echo "  /_______ \___  >__|   \____/      |____|   |__|  (____  /\___  >"
-    echo "          \/   \/                                       \/     \/"
-    echo -e "           ${WHITE}[ ${CYAN}Zero-Trace Suite v1.0${WHITE} ]${NC}"
-    echo -e "    ${WHITE}[ ${PURPLE}The official professional tool of r4ouf_s${WHITE} ]${NC}"
+    echo -e "${BLUE}"
+echo "  ____________________________________________________________"
+echo " |                                                            |"
+echo " |    ____               ____              _ _  _             |"
+echo " |   / ___|___  _ __ ___/ ___|  __ _ _ __ (_) |_(_)_______    |"
+echo " |  | |   / _ \| '__/ _ \___ \ / _\` | '_ \| | __| |_  / _ \   |"
+echo " |  | |__| (_) | | |  __/___) | (_| | | | | | |_| |/ /  __/   |"
+echo " |   \____\___/|_|  \___|____/ \__,_|_| |_|_|\__|_/___\___|   |"
+echo " |                                                            |"
+echo " |             ${WHITE}CORESANITIZE: EDUCATIONAL TOOL${BLUE}                 |"
+echo " |        ${WHITE}Focus: Network Hygiene & Privacy Defense${BLUE}            |"
+echo " |____________________________________________________________|"
+echo -e "${NC}"
 }
 
 # --- [ Module 1: Stealth Setup ] ---
