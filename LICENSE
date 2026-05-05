@@ -1,57 +1,68 @@
 Copyright (c) 2026 Abderaouf Sendid (r4ouf_s). All Rights Reserved.
 
-1. OWNERSHIP & AUTHENTICITY
+CoreSanitize v1.0 License (Custom Educational License)
 
-CoreSanitize v1.0 is proprietary software developed and exclusively owned by Abderaouf Sendid.
+1. OWNERSHIP
 
-The only authentic and trusted distribution of this software is available through the official GitHub repository maintained by the author and verified using GPG Key ID: B5690EEEBB952194.
+This software, CoreSanitize v1.0, is developed and owned by Abderaouf Sendid.
 
-Any version obtained from unofficial sources is considered unauthorized, untrusted, and unsupported.
+All rights not explicitly granted in this license are reserved by the author.
 
-2. PERMITTED USE
+2. AUTHORIZED USE
 
-Permission is granted to use CoreSanitize locally on Kali Linux or other security-focused environments strictly for lawful non-commercial purposes, including:
+Permission is granted to use this software for personal, educational, and non-commercial purposes only, including:
 
-Cybersecurity education and academic research
-Privacy and security posture analysis
-Controlled laboratory testing and experimentation
-Ethical and authorized forensic or wireless security studies
+- Cybersecurity learning and academic research
+- Controlled laboratory and virtual environments
+- Ethical security testing in systems owned by the user or with explicit authorization
+- Privacy and system behavior analysis in safe environments
 
-All usage must comply with applicable local, national, and international laws.
+3. SOURCE CODE AND MODIFICATION
 
-3. RESTRICTIONS
+- Users are allowed to view and study the source code for educational purposes.
+- Modification is allowed strictly for personal learning and experimentation.
+- Modified versions must not be distributed or published as original or official CoreSanitize software.
 
-Users are not permitted to:
+4. REDISTRIBUTION
 
-Modify, reverse engineer, decompile, or create derivative works of CoreSanitize
-Redistribute, mirror, publish, or re-host the software or its source code in any form
-Use the software for commercial purposes, including paid services or products
-Remove, alter, or obscure copyright notices, ownership statements, or digital signatures
-Represent the software as their own work or claim authorship
-4. LEGAL USE & DISCLAIMER OF LIABILITY
+Redistribution of this software (original or modified) is not permitted without prior written permission from the author.
 
-CoreSanitize v1.0 is intended for lawful use only. Any illegal, unauthorized, or unethical use of this software is strictly prohibited.
+Sharing links to the official repository is allowed and encouraged.
 
-The user assumes full responsibility for how the software is used.
+5. COMMERCIAL USE
 
-The author shall not be held responsible or liable for any misuse, illegal activity, or damages resulting from the use or misuse of this software by any third party.
+Commercial use of this software or its components is strictly prohibited without explicit written permission from the author.
 
-By using this software, the user fully accepts these terms.
+6. ATTRIBUTION
 
-5. NO WARRANTY
+Any educational reference, demonstration, or academic use must include proper credit to:
+
+Abderaouf Sendid (r4ouf_s) – CoreSanitize v1.0
+
+7. DISCLAIMER OF LIABILITY
+
+This software is provided for educational and lawful purposes only.
+
+The author is not responsible for any misuse, damage, data loss, or illegal activity resulting from the use of this software.
+
+Users are fully responsible for how they use this tool.
+
+8. NO WARRANTY
 
 This software is provided “AS IS”, without warranty of any kind, express or implied.
 
-The author disclaims all liability for any direct, indirect, incidental, or consequential damages arising from the use of this software.
+The author disclaims all liability for any issues arising from its use.
 
 Use at your own risk.
 
-6. AUTHENTICITY VERIFICATION
+9. AUTHENTICITY
 
-Users are strongly encouraged to verify the integrity of all releases using the official GPG signature provided by the author.
+Official versions of CoreSanitize are distributed only through the author’s official GitHub repository.
 
-Any modified or unsigned version must be considered untrusted and unofficial.
+Users are encouraged to verify integrity if signatures or verification methods are provided.
 
-7. CONTACT & PERMISSIONS
+10. FINAL AGREEMENT
 
-For licensing inquiries, collaboration requests, or permissions beyond the scope of this license, contact the developer exclusively via the official GitHub repository.
+By using this software, you agree to the terms of this license.
+
+If you do not agree with these terms, you must not use the software.
