@@ -59,7 +59,7 @@ Includes a self-removal function that overwrites and deletes the script to minim
 
 ### 🚀 Installation & Deployment
 
-To deploy the **Zero-Trace Suite**, execute the following commands in your terminal. Ensure you have `git` and `bash` installed on your Kali Linux system.
+To deploy the **CoreSanitize**, execute the following commands in your terminal. Ensure you have `git` and `bash` installed on your Kali Linux system.
 ```bash
 # Clone the repository
 git clone https://github.com/anisdell2010-crypto/CoreSanitize.git
