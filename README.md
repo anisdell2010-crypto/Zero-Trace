@@ -1,6 +1,5 @@
 # 🛡️ <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="30" height="30" valign="middle"> 🛡️ CoreSanitize Framework v1.0
-Advanced Network Hygiene & Privacy Protection (Bash)
-
+A practical Bash-based toolkit for network hygiene and privacy protection in Linux environments.
 ![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)
 ![Language](https://img.shields.io/badge/language-Bash-green)
 ![Version](https://img.shields.io/badge/version-1.0-red)
@@ -15,11 +14,11 @@ The developer assumes **NO responsibility** for any misuse or illegal activities
 
 ---
 
-### 🏆 Professional Certifications
+### 🏆 Verified Certifications:
 - 🎓 **ISC2:** [Certified ISC2 Candidate](https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url)
 - 🎓 **Cisco:** [Introduction to Cybersecurity](https://www.credly.com/badges/287b2ee6-cff8-4d87-ad7c-c494ad518ccf/public_url)
 - 🎓 **IBM:** [Cybersecurity Fundamentals](https://www.credly.com/badges/e80a886c-352e-4c89-9374-f1c222fab989/public_url)
--🎓 **Cisco**: [Certified Ethical Hacker](https://www.credly.com/badges/01549b33-84b6-48b4-81af-d7b2ac54e5a6/public_url) 
+- 🎓 **Cisco:** [Certified Ethical Hacker](https://www.credly.com/badges/01549b33-84b6-48b4-81af-d7b2ac54e5a6/public_url) 
 ---
 👨‍💻 Developed By
 This entire suite, from logic to documentation, is an independent production developed from scratch by Abderaouf Sendid (r4ouf_s). 🛡️💻
@@ -41,16 +40,22 @@ Requirements Section⚠️:
 - iw
 - NetworkManager
   
-🧠 System Features
-Network Privacy Shield: Automates MAC address randomization to prevent hardware tracking and enhance user anonymity during sensitive network research.
+### 🧠 System Features
 
-Automated Research Environment: Streamlines the transition between managed and specialized diagnostic modes (Monitor Mode), ensuring a controlled environment for wireless signal analysis.
+**Network Privacy Shield:**  
+Automates MAC address randomization to reduce device traceability and improve user anonymity during network analysis.
 
-Tunnel Integrity Verification: Features an active detection system for encrypted gateways (VPNs), preventing accidental data leaks by ensuring secure communication paths are operational.
+**Automated Research Environment:**  
+Simplifies switching between managed mode and monitor mode, enabling controlled wireless analysis in lab environments.
 
-System Hygiene & Sanitization: Implements professional-grade data clearing by flushing volatile memory (RAM) and truncating system logs to protect sensitive operational metadata.
+**Tunnel Integrity Verification:**  
+Checks VPN connectivity status to help ensure that network traffic is routed through secure channels.
 
-Secure Resource Disposal: Includes a built-in cryptographic erasure function that utilizes high-iteration overwriting to permanently remove the script and prevent unauthorized recovery of the toolkit.
+**System Hygiene & Sanitization:**  
+Performs basic system cleanup by clearing temporary data and truncating logs to reduce residual activity traces.
+
+**Secure Resource Cleanup:**  
+Includes a self-removal function that overwrites and deletes the script to minimize recoverability.
 
 ### 🚀 Installation & Deployment
 
