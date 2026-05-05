@@ -5,7 +5,7 @@ Advanced Network Hygiene & Privacy Protection (Bash)
 ![Language](https://img.shields.io/badge/language-Bash-green)
 ![Version](https://img.shields.io/badge/version-1.0-red)
 ![License](https://img.shields.io/badge/license-Educational-orange)
-CoreSanitize is a professional-grade educational suite designed for Linux environments to automate system sanitization, manage network privacy, and secure digital hygiene during cybersecurity auditing labs.
+CoreSanitize is an educational Linux security toolkit focused on understanding network behavior, wireless interfaces, and system-level security concepts in controlled lab environments.
 
 ---
 
